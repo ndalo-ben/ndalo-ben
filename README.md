@@ -14,15 +14,6 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/techwolf_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-ouma-0191281b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techwolf_dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ndaloBen) 
 
-<!-- Top Languages -->
-## 🌐 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&layout=compact&theme=dark)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ndalo-ben&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Contribution Graph -->
 ## 📈 Contribution Graph
 
