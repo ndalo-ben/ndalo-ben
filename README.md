@@ -23,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Contribution Graph -->
+## 📈 Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ndalo-ben&theme=github)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ndalo-ben&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
