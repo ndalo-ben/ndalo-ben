@@ -1,16 +1,3 @@
-- 👋 Hi, I’m Ben
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on Nextjs & React projects
-- 📫 How to reach me ...
-
-<!---
-ndalo-ben/ndalo-ben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/techwolf_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-ouma-0191281b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techwolf_dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ndaloBen) 
 
