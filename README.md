@@ -10,10 +10,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ndalo-ben&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=vision-friendly-dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=vision-friendly-dark&hide_progress=false&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=vision-friendly-dark&hide_progress=false&include_all_commits=true&count_private=true&hide_border=true)
 
-# Wakatime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechWolf)](https://github.com/ndalo-ben/github-readme-stats)
+# ⌚ Wakatime Stats:
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechWolf)](https://github.com/ndalo-ben/github-readme-stats&hide_border=true&theme=vision-friendly-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
