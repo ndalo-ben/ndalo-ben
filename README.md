@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Wakatime Stats
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TechWolf)](https://github.com/ndalo-ben/github-readme-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
