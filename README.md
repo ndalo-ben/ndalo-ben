@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ndalo-ben&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndalo-ben&show_icons=true&theme=transparent)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndalo-ben&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=vision-friendly-dark&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=vision-friendly-dark&hide_progress=false&include_all_commits=true&count_private=true&hide_border=true)
 
