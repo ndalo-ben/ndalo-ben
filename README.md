@@ -9,6 +9,7 @@
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=vision-friendly-dark&hide_progress=false&include_all_commits=true&count_private=true&hide_border=true)
+(https://github-readme-stats.vercel.app/api?username=ndalo-ben)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ✍️ Random Dev Quote
