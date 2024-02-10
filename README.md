@@ -19,7 +19,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ndalo-ben&theme=vision-friendly-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ndalo-ben&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=ndalo-ben&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
