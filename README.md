@@ -2,21 +2,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/techwolf_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-ouma-0191281b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techwolf_dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ndaloBen) 
 
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ndalo-ben&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ndalo-ben&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-
-# 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndalo-ben&theme=vision-friendly-dark&hide_progress=false&include_all_commits=true&count_private=true&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndalo-ben&theme=vision-friendly-dark&hide_border=true)
-
-### ✍️ Random Dev Quote
+### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ndalo-ben&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ndalo-ben&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
