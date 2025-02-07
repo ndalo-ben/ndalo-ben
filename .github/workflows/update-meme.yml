@@ -1,0 +1,26 @@
+name: Update Meme in README
+
+on:
+  schedule:
+    - cron: '0 */1 * * *' # Runs every 6 hours
+
+jobs:
+  update-meme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Meme
+        run: |
+          curl -s https://meme-api.com/gimme/programmingmemes | jq -r '.url' > meme_url.txt
+          wget -O meme.jpg $(cat meme_url.txt)
+
+      - name: Commit and Push Meme
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add meme.jpg
+          git commit -m "Updated meme"
+          git push
