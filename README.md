@@ -31,7 +31,8 @@
 ---
 
 ## 😂 Developer Meme of the Day:
-<img src="https://i.redd.it/6dxmrj8xvtc61.jpg" width="500px"/>  <!-- This will be updated automatically -->
+![Latest Meme](https://raw.githubusercontent.com/ndalo-ben/ndalo-ben/main/meme.jpg)
+
 
 ---
 
