@@ -1,8 +1,9 @@
 name: Update Meme in README
 
 on:
+  workflow_dispatch:  # Allows manual trigger
   schedule:
-    - cron: '0 */1 * * *'  # Runs every 6 hours
+    - cron: '0 */6 * * *'  # Runs every 6 hours
 
 jobs:
   update-meme:
