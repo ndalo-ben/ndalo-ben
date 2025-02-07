@@ -1,0 +1,29 @@
+name: Update README with a Meme
+
+on:
+  schedule:
+    - cron: '0 */1 * * *' # Runs every hour
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Meme
+        run: |
+          curl -s https://meme-api.com/gimme/programmingmemes | jq -r '.url' > meme_url.txt
+
+      - name: Update README
+        run: |
+          MEME_URL=$(cat meme_url.txt)
+          sed -i "s|<img src=\".*\" width=\"500px\"/>|<img src=\"$MEME_URL\" width=\"500px\"/>|g" README.md
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated meme of the day"
+          git push
