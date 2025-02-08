@@ -1,5 +1,5 @@
-# 🚀 Benard Ouma | TechWolf🐾  
-🎯 **Full-Stack Developer | Next.js | TypeScript | Django | PostgreSQL**  
+# 🚀 Benard Ouma | TechWolf 🐺 
+🎯 **Full-Stack Web Developer | Next.js | TypeScript | Django | PostgreSQL**  
 💡 Passionate about building scalable web applications, crafting clean UI/UX, and optimizing backend performance.
 
 ## 🌐 Connect with Me:
