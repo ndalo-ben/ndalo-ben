@@ -3,7 +3,7 @@
 💡 Passionate about building scalable web applications, crafting clean UI/UX, and optimizing backend performance.
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/techwolf_dev/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/code_and_canine/) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/benard-ouma-0191281b7/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/techwolf_dev) 
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/ndaloBen)  
